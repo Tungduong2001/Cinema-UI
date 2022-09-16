@@ -18,7 +18,7 @@ const Hometab2 = (props: Props) => {
         <div>
             <div className='relative'>
                 <div className='tab1_film'>
-                    <Link to={`/`}>
+                    <Link to={`/detail`}>
                         <div className='tab1_film_img'>
                             <img src="https://cdn.galaxycine.vn/media/2022/9/3/1800x1200_1662206721127.jpg" width={550} alt="" />
                         </div>
@@ -38,7 +38,7 @@ const Hometab2 = (props: Props) => {
         <div>
             <div className='relative'>
                 <div className='tab1_film'>
-                    <Link to={`/`}>
+                    <Link to={`/detail`}>
                         <div className='tab1_film_img'>
                             <img src="https://cdn.galaxycine.vn/media/2022/9/3/1800x1200_1662206721127.jpg" width={550} alt="" />
                         </div>
